@@ -1,0 +1,17 @@
+.navcolor{
+    background-color: black;
+}
+
+.navcolor a{
+    color: white;
+}
+
+.navcolor img{
+    width: 50px;
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Martian Mono', monospace;
+font-family: 'Oswald', sans-serif;
+}
